@@ -1,3 +1,3 @@
 # Rebygg nettside
-Denne nettsiden tilhører Rebygg AS.
+Denne nettsiden tilhører Rebygg AS.\
 2025
